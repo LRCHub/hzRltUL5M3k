@@ -1,0 +1,63 @@
+# Deftones – Change (In the House of Flies)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.91] I watched you change
+[00:30.91] 
+[00:28.86] Into a fly
+[00:35.46] I looked away
+[00:41.96] 
+[00:40.65] You were on fire
+[00:48.65] 
+[00:46.11] I watched a change in you
+[00:53.37] It's like you never had wings
+[01:00.22] Now, you feel so alive
+[01:06.50] I've watched you change
+[01:18.00] 
+[01:17.03] I took you home
+[01:24.53] 
+[01:23.52] Set you on the glass
+[01:33.52] 
+[01:30.87] I pulled off your wings
+[01:36.39] Then I laughed
+[01:43.39] 
+[01:41.60] I watched a change in you
+[01:49.21] It's like you never had wings
+[01:56.02] Now, you feel so alive
+[02:02.52] I've watched you change
+[02:14.02] 
+[02:09.80] It's like you never had wings
+[02:14.99] Aah, aah, aah, aah
+[02:21.26] Aah, aah, aah, aah
+[02:28.16] Aah, aah
+[02:32.16] 
+[02:37.24] I look at the cross
+[02:46.74] 
+[02:43.81] Then I look away
+[02:51.81] 
+[02:51.77] Give you the gun
+[02:59.77] 
+[02:57.41] Blow me away
+[03:03.41] 
+[03:02.92] I watched a change in you
+[03:10.14] It's like you never had wings
+[03:17.04] Now, you feel so alive
+[03:23.41] I've watched you change
+[03:34.91] 
+[03:30.85] Now, you feel alive
+[03:37.98] You feel alive
+[03:44.43] You feel alive
+[03:50.76] I've watched you change
+[04:02.26] 
+[03:57.75] It's like you never had wings
+[04:02.59] Aah, aah, aah, aah
+[04:09.02] Aah, aah, aah, aah
+[04:15.86] Aah, aah
+[04:19.86] 
+[04:25.27] You've changed
+[04:32.27] 
+[04:31.95] You've changed
+[04:38.95] 
+[04:38.57] You've changed
+```
