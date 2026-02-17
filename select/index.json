@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Change (In the House of Flies)",
+  "base_artist": "Deftones",
+  "createdAt": "2026-02-17T16:26:02.149666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/01_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/02_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/03_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/04_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Change (In The House Of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/05_Change_(In_The_House_Of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/06_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/07_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Change (In The House Of Flies)",
+      "artist": "Architects",
+      "has_synced": false,
+      "path": "select/08_Change_(In_The_House_Of_Flies)_Architects.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/09_Change_(In_the_House_of_Flies)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/10_Change_(In_the_House_of_Flies)_Various.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Change (In the House of Flies)",
+      "artist": "Deicide",
+      "has_synced": true,
+      "path": "select/11_Change_(In_the_House_of_Flies)_Deicide.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Change (In The House Of Flies)",
+      "artist": "Deftones",
+      "has_synced": false,
+      "path": "select/pl_01_Change_(In_The_House_Of_Flies)_Deftones.txt"
+    }
+  ]
+}
